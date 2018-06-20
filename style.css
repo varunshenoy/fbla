@@ -5,5 +5,10 @@
   border-radius: 10px;
   float: left;
   overflow: hidden;
-  
+
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
